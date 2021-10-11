@@ -1,4 +1,4 @@
-<p>A Chatbooks fork so that we can tag the SPM fix included in PR #1487</p>
+<p>A Chatbooks fork so that we can tag the SPM fix included in <a href="https://github.com/Instagram/IGListKit/pull/1487">PR #1487</a></p>
 </br>
 </br>
 
