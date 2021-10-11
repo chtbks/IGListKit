@@ -1,3 +1,7 @@
+<p>A Chatbooks fork so that we can tag the SPM fix included in PR #1487</p>
+</br>
+</br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Instagram/IGListKit/master/Resources/logo-animation.gif" width=400 />
 </p>
